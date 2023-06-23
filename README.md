@@ -11,8 +11,5 @@ In this application, you can convert the temperature from Celsius to Fahrenheit 
 |HTML|CSS|Javascript|
 |---|---|---|
 
-## Link
-https://thenewc0der-24.github.io/Temperature__Converter-Application/
-
 ---
-<h3 align="center">Hope this application helpful to you !!</h3>
+<h3 align="center">Hope this application helpful for all !!</h3>
